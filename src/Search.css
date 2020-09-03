@@ -1,0 +1,44 @@
+.textField {
+    padding: 20px;
+}
+
+.checkBox {
+    position: relative;
+    top: 20px;
+    color: black;
+    min-width: 120px;
+}
+
+.formSearch {
+    margin-top: 10vh;
+    background-color: white;
+    min-height: 45vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.buttonSearch {
+    top: 2vh;
+}
+
+.cardResult {
+    max-width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listJobs {
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
